@@ -1,0 +1,178 @@
+[
+  {
+    "ticker": "HDFCBANK",
+    "checked_at": "2026-11-03T06:50:54.812242+00:00",
+    "screener": true,
+    "screener_mode": "live",
+    "name": "HDFC Bank Ltd",
+    "document_links": 52,
+    "yfinance": true,
+    "price_mode": "live",
+    "price_rows": 30
+  },
+  {
+    "ticker": "ICICIBANK",
+    "checked_at": "2026-11-03T06:51:17.028889+00:00",
+    "screener": true,
+    "screener_mode": "live",
+    "name": "ICICI Bank Ltd",
+    "document_links": 60,
+    "yfinance": true,
+    "price_mode": "live",
+    "price_rows": 30
+  },
+  {
+    "ticker": "BAJFINANCE",
+    "checked_at": "2026-11-03T06:51:21.030115+00:00",
+    "screener": true,
+    "screener_mode": "live",
+    "name": "Bajaj Finance Ltd",
+    "document_links": 57,
+    "yfinance": true,
+    "price_mode": "live",
+    "price_rows": 30
+  },
+  {
+    "ticker": "INFY",
+    "checked_at": "2026-11-03T06:51:25.042533+00:00",
+    "screener": true,
+    "screener_mode": "cache",
+    "name": "Infosys Ltd",
+    "document_links": 56,
+    "yfinance": true,
+    "price_mode": "cache",
+    "price_rows": 30
+  },
+  {
+    "ticker": "TCS",
+    "checked_at": "2026-11-03T06:51:25.884019+00:00",
+    "screener": true,
+    "screener_mode": "live",
+    "name": "Tata Consultancy Services Ltd",
+    "document_links": 63,
+    "yfinance": true,
+    "price_mode": "live",
+    "price_rows": 30
+  },
+  {
+    "ticker": "SUNPHARMA",
+    "checked_at": "2026-11-03T06:51:29.953243+00:00",
+    "screener": true,
+    "screener_mode": "live",
+    "name": "Sun Pharmaceutical Industries Ltd",
+    "document_links": 46,
+    "yfinance": true,
+    "price_mode": "live",
+    "price_rows": 30
+  },
+  {
+    "ticker": "MARUTI",
+    "checked_at": "2026-11-03T06:51:33.963372+00:00",
+    "screener": true,
+    "screener_mode": "live",
+    "name": "Maruti Suzuki India Ltd",
+    "document_links": 61,
+    "yfinance": true,
+    "price_mode": "live",
+    "price_rows": 30
+  },
+  {
+    "ticker": "HINDUNILVR",
+    "checked_at": "2026-11-03T06:51:37.973755+00:00",
+    "screener": true,
+    "screener_mode": "live",
+    "name": "Hindustan Unilever Ltd",
+    "document_links": 38,
+    "yfinance": true,
+    "price_mode": "live",
+    "price_rows": 30
+  },
+  {
+    "ticker": "LT",
+    "checked_at": "2026-11-03T06:51:42.439248+00:00",
+    "screener": true,
+    "screener_mode": "live",
+    "name": "Larsen & Toubro Ltd",
+    "document_links": 53,
+    "yfinance": true,
+    "price_mode": "live",
+    "price_rows": 30
+  },
+  {
+    "ticker": "NTPC",
+    "checked_at": "2026-11-03T06:51:46.931226+00:00",
+    "screener": true,
+    "screener_mode": "live",
+    "name": "NTPC Ltd",
+    "document_links": 38,
+    "yfinance": true,
+    "price_mode": "live",
+    "price_rows": 30
+  },
+  {
+    "ticker": "RELIANCE",
+    "checked_at": "2026-11-03T06:51:50.906644+00:00",
+    "screener": true,
+    "screener_mode": "live",
+    "name": "Reliance Industries Ltd",
+    "document_links": 41,
+    "yfinance": true,
+    "price_mode": "live",
+    "price_rows": 30
+  },
+  {
+    "ticker": "COFORGE",
+    "checked_at": "2026-11-03T06:51:54.929738+00:00",
+    "screener": true,
+    "screener_mode": "live",
+    "name": "Coforge Ltd",
+    "document_links": 43,
+    "yfinance": true,
+    "price_mode": "live",
+    "price_rows": 30
+  },
+  {
+    "ticker": "APLAPOLLO",
+    "checked_at": "2026-11-03T06:51:59.382574+00:00",
+    "screener": true,
+    "screener_mode": "live",
+    "name": "APL Apollo Tubes Ltd",
+    "document_links": 65,
+    "yfinance": true,
+    "price_mode": "live",
+    "price_rows": 30
+  },
+  {
+    "ticker": "CDSL",
+    "checked_at": "2026-11-03T06:52:03.395347+00:00",
+    "screener": true,
+    "screener_mode": "live",
+    "name": "Central Depository Services (India) Ltd",
+    "document_links": 42,
+    "yfinance": true,
+    "price_mode": "live",
+    "price_rows": 30
+  },
+  {
+    "ticker": "KPRMILL",
+    "checked_at": "2026-11-03T06:52:07.408565+00:00",
+    "screener": true,
+    "screener_mode": "live",
+    "name": "K P R Mill Ltd",
+    "document_links": 33,
+    "yfinance": true,
+    "price_mode": "live",
+    "price_rows": 30
+  },
+  {
+    "ticker": "SHARDAMOTR",
+    "checked_at": "2026-11-03T06:52:11.766870+00:00",
+    "screener": true,
+    "screener_mode": "live",
+    "name": "Sharda Motor Industries Ltd",
+    "document_links": 35,
+    "yfinance": true,
+    "price_mode": "live",
+    "price_rows": 30
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "holdings_are_mock": true,
+  "weights_are_percent": true,
+  "portfolio": [
+    {"ticker":"HDFCBANK","sector":"bank","weight":10,"bse":"500180","size":"large"},
+    {"ticker":"ICICIBANK","sector":"bank","weight":8,"bse":"532174","size":"large"},
+    {"ticker":"BAJFINANCE","sector":"nbfc","weight":7,"bse":"500034","size":"large"},
+    {"ticker":"INFY","sector":"IT","weight":9,"bse":"500209","size":"large"},
+    {"ticker":"TCS","sector":"IT","weight":7,"bse":"532540","size":"large"},
+    {"ticker":"SUNPHARMA","sector":"pharma","weight":7,"bse":"524715","size":"large"},
+    {"ticker":"MARUTI","sector":"auto","weight":7,"bse":"532500","size":"large"},
+    {"ticker":"HINDUNILVR","sector":"FMCG","weight":6,"bse":"500696","size":"large"},
+    {"ticker":"LT","sector":"capital goods","weight":8,"bse":"500510","size":"large"},
+    {"ticker":"NTPC","sector":"PSU power","weight":6,"bse":"532555","size":"large"},
+    {"ticker":"RELIANCE","sector":"energy","weight":8,"bse":"500325","size":"large"},
+    {"ticker":"COFORGE","sector":"IT","weight":4,"bse":"532541","size":"mid"},
+    {"ticker":"APLAPOLLO","sector":"industrials","weight":4,"bse":"533758","size":"mid"},
+    {"ticker":"CDSL","sector":"financial infrastructure","weight":3,"bse":null,"size":"mid"},
+    {"ticker":"KPRMILL","sector":"textiles","weight":3,"bse":"532889","size":"mid"},
+    {"ticker":"SHARDAMOTR","sector":"auto components","weight":3,"bse":"535602","size":"small"}
+  ],
+  "research_tickers": ["INFY","HCLTECH","TITAN","DRREDDY"],
+  "held_out_ticker": "CAMS",
+  "size_labels": "Approximate selection buckets, not verified current SEBI classifications."
+}

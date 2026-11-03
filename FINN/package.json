@@ -1,0 +1,21 @@
+{
+  "name": "finn",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Slice 1 data foundation. React/Vite UI starts in Slice 2.",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "lucide-react": "^0.468.0"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  },
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "python -m backend.build_bundle && vite build",
+    "test": "node --test frontend/logic.test.js",
+    "preview": "vite preview --host 127.0.0.1"
+  }
+}

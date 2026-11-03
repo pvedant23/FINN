@@ -1,0 +1,161 @@
+[
+  {
+    "item_id": "3a38ad5c9850ebfc8e1a38cb",
+    "ticker": "HDFCBANK",
+    "date": "2026-10-27",
+    "event": "Change in Managing Director and CEO",
+    "person": "Anup Bagchi",
+    "role": "Managing Director and CEO, three-year term from 27 Oct 2026",
+    "summary": "ICICI Group veteran (since 1992), most recently MD and CEO of ICICI Prudential Life Insurance. Replaces Sashidhar Jagdishan, who retired on 26 Oct after deciding not to seek reappointment.",
+    "background": [
+      "MD and CEO, ICICI Prudential Life Insurance, since June 2023",
+      "Executive Director, ICICI Bank, 2017 to 2023 (retail, business and rural banking)",
+      "Earlier MD and CEO of ICICI Securities",
+      "Joined the ICICI Group in 1992"
+    ],
+    "context": "Deputy MD Kaizad Bharucha has asked to step down effective 31 Dec 2026.",
+    "sources": [
+      { "title": "Business Standard, 1 Oct 2026", "url": "https://www.business-standard.com/companies/people/hdfc-bank-board-appoints-anup-bagchi-as-md-ceo-with-effect-from-october-27-126100101096_1.html" },
+      { "title": "Exchange4media", "url": "https://www.exchange4media.com/marketing-news/hdfc-bank-names-anup-bagchi-md-and-ceo-tenure-begins-october-27-158824.html" },
+      { "title": "HDFC Bank filing to NSE, 27 Oct 2026", "url": "https://nsearchives.nseindia.com/corporate/HDFCBANK_27102026080232_SEIntimation_appt_of_AB.pdf" }
+    ],
+    "confidence": "Verified: consistent across several public sources"
+  },
+  {
+    "item_id": "bdc5bdd3421c54a00352e6e6",
+    "ticker": "HDFCBANK",
+    "date": "2026-10-31",
+    "event": "Change in senior management",
+    "person": "Sanjay D'Souza (outgoing)",
+    "role": "Group Head, Business Banking, Emerging and Micro Enterprises (Senior Management)",
+    "summary": "Retired on 31 Oct after nearly 27 years at the bank. His exit follows CEO Jagdishan's retirement on 26 Oct; Deputy MD Kaizad Bharucha is due to leave on 31 Dec.",
+    "background": [
+      "Headed the Emerging Enterprises Group from October 2016",
+      "Micro Enterprises Group added to his remit in February 2024",
+      "About 27 years at HDFC Bank"
+    ],
+    "context": "A successor was not named in the sources reviewed.",
+    "sources": [
+      { "title": "NewsBytes", "url": "https://www.newsbytesapp.com/news/business/hdfc-bank-shares-dip-after-sanjay-dsouzas-nearly-27-year-exit/tldr" },
+      { "title": "IBTimes AU", "url": "https://www.ibtimes.com.au/hdfc-bank-adrs-rise-anup-bagchi-ceo-1877766" },
+      { "title": "Board Stewardship (earlier profile)", "url": "https://boardstewardship.com/sanjay-dsouza-joins-hdfc-bank-as-group-head-of-emerging-informal-micro-enterprises-group/" }
+    ],
+    "confidence": "Verified: multiple public sources"
+  },
+  {
+    "item_id": "76b9ebf0aa3b4646ca360f5d",
+    "ticker": "NTPC",
+    "date": "2026-10-23",
+    "event": "Appointment of Government Nominee Director",
+    "person": "Diwakar Nath Misra",
+    "role": "Government Nominee Director (Additional Director), effective 23 Oct 2026",
+    "summary": "2000-batch IAS officer (Assam-Meghalaya cadre), currently Additional Secretary in the Ministry of Power. Sits on the board until his Ministry of Power tenure ends or further orders.",
+    "background": [
+      "Additional Secretary, Ministry of Power (current)",
+      "Additional Secretary, Department of Revenue, Ministry of Finance, from August 2025",
+      "Joint Secretary roles in Petroleum and Natural Gas, and in Commerce and Industry",
+      "Represented India at the Financial Action Task Force (FATF)",
+      "Earlier on the boards of SJVN and NHPC"
+    ],
+    "context": "Appointed under a Ministry of Power order dated 19 Oct 2026.",
+    "sources": [
+      { "title": "PSU Watch", "url": "https://psuwatch.com/amp/story/psu-appointments/ntpc-appoints-diwakar-nath-misra-as-govt-nominee-director" },
+      { "title": "PSU Connect: profile", "url": "https://www.psuconnect.in/new-faces-in-psus/ntpc-appoints-diwakar-nath-misra-as-government-nominee-director" },
+      { "title": "SJVN board page", "url": "https://sjvn.nic.in/en/board-of-directors/sh-diwakar-nath-misra" }
+    ],
+    "confidence": "Verified: company disclosure plus public biographies"
+  },
+  {
+    "item_id": "55981b24702cebc2803f6388",
+    "ticker": "NTPC",
+    "date": "2026-10-19",
+    "event": "Government Nominee Director named by Ministry of Power",
+    "person": "Diwakar Nath Misra",
+    "role": "Government Nominee Director (order dated 19 Oct 2026)",
+    "summary": "The Ministry of Power nominated Misra, an Additional Secretary in the Ministry. NTPC's board formalised the appointment effective 23 Oct 2026.",
+    "background": [
+      "2000-batch IAS officer, Assam-Meghalaya cadre",
+      "Additional Secretary, Ministry of Power",
+      "Earlier Additional Secretary, Department of Revenue, Ministry of Finance"
+    ],
+    "context": "See the 23 Oct filing for the formal appointment.",
+    "sources": [
+      { "title": "PSU Connect", "url": "https://www.psuconnect.in/new-faces-in-psus/ntpc-appoints-shri-diwakar-nath-misra-as-government-nominee-director" },
+      { "title": "SolarQuarter", "url": "https://solarquarter.com/2026/10/21/ntpc-appoints-diwakar-nath-misra-as-government-nominee-director-to-its-board/" }
+    ],
+    "confidence": "Verified: company disclosure plus public biographies"
+  },
+  {
+    "item_id": "b20dc34c3871e7ce0ce6ce46",
+    "ticker": "ICICIBANK",
+    "date": "2026-10-17",
+    "event": "Chairperson continuation sought from RBI",
+    "person": "Pradeep Kumar Sinha",
+    "role": "Non-Executive Part-time Chairperson (continuation proposed, subject to RBI approval)",
+    "summary": "The board seeks RBI approval to keep him as chair from 1 Jul 2027 to 16 Feb 2029. Not a new face: a retired 1977-batch IAS officer and former Cabinet Secretary, chair since 2024.",
+    "background": [
+      "Retired 1977-batch IAS officer, Uttar Pradesh cadre",
+      "Cabinet Secretary of India until 12 Sep 2019, then Principal Adviser in the Prime Minister's Office",
+      "Earlier Union Power Secretary",
+      "ICICI Bank part-time chairman since 1 Jul 2024, succeeding G. C. Chaturvedi"
+    ],
+    "context": "The extension stays within his independent-director tenure approved by the board and shareholders.",
+    "sources": [
+      { "title": "Indian Mandarins", "url": "https://www.indianmandarins.com/news/ex-cabinet-secretary-is-chairman-icici-rbi-approves-appointment/28885" },
+      { "title": "ICICI Bank filing to NSE, 17 Feb 2024", "url": "https://nsearchives.nseindia.com/corporate/ICICIBANK_17022024132359_NSEBSE_FEB17.pdf" },
+      { "title": "Daily Excelsior", "url": "https://www.dailyexcelsior.com/?p=1759044" }
+    ],
+    "confidence": "Verified: public sources and an earlier bank filing"
+  },
+  {
+    "item_id": "c5af56457d4dd987f7fc9ed0",
+    "ticker": "LT",
+    "date": "2026-10-07",
+    "event": "Change in senior management",
+    "person": "Dr C Jayakumar, Suresh Kumar Narang, S Ramkumar and Sriraman T",
+    "role": "Newly classed as Senior Management Personnel after promotions effective 1 Jul 2026",
+    "summary": "Four L&T executives were categorised as Senior Management Personnel after promotions (circulars dated 6 Oct). These are internal promotions, not outside hires.",
+    "background": [
+      "Dr C Jayakumar: Senior Vice President and Head, Corporate Human Resources",
+      "Suresh Kumar Narang: Senior Vice President, IC Head of CarbonLite Solutions and Chief Executive of LMB",
+      "S Ramkumar: Senior Vice President and IC Head, Transportation Infrastructure",
+      "Sriraman T: designation not captured in the source reviewed"
+    ],
+    "context": "Individual career histories were not retrieved.",
+    "sources": [
+      { "title": "PSU Connect, repeating L&T's 7 Oct 2026 disclosure", "url": "https://www.psuconnect.in/corporate-news/larsen-toubro-announces-changes-in-senior-management-personnel" }
+    ],
+    "confidence": "Partial: one secondary source repeating the company disclosure"
+  },
+  {
+    "item_id": "a43db301190f20ebe4282ba2",
+    "ticker": "SUNPHARMA",
+    "date": "2026-10-12",
+    "event": "Resignation of Director",
+    "person": "Gautam Doshi (outgoing)",
+    "role": "Non-Executive Independent Director, resigned with immediate effect on 12 Oct 2026",
+    "summary": "Cited personal reasons and confirmed no other material reasons. The same board meeting approved raising up to Rs 10,000 crore through non-convertible debentures.",
+    "background": [],
+    "context": "His professional background was not retrieved, so none is shown.",
+    "sources": [
+      { "title": "Angel One", "url": "https://www.angelone.in/news/stocks/sun-pharma-share-price-in-focus-as-board-approves-10-000-crore-ncd-issuance" },
+      { "title": "Business Standard", "url": "https://www.business-standard.com/companies/news/sun-pharma-board-approves-plan-to-raise-up-to-10-000-crore-via-ncds-126101300600_1.html" }
+    ],
+    "confidence": "Partial: departure verified; background not retrieved"
+  },
+  {
+    "item_id": "08af78ab932c7049b072ddcb",
+    "ticker": "SUNPHARMA",
+    "date": "2026-10-12",
+    "event": "Resignation of Director (board meeting outcome)",
+    "person": "Gautam Doshi (outgoing)",
+    "role": "Non-Executive Independent Director",
+    "summary": "The board meeting outcome noted his resignation on personal grounds, alongside approval of up to Rs 10,000 crore of non-convertible debentures.",
+    "background": [],
+    "context": "His professional background was not retrieved, so none is shown.",
+    "sources": [
+      { "title": "Arthneeti, summary of the filing", "url": "https://www.arthneeti.com/announcements/sun-pharmaceutical-industries-ltd-announcement-under-regulation-30-lodr-resignation-of-director-12-oct-2026" }
+    ],
+    "confidence": "Partial: departure verified; background not retrieved"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "$schema":"https://json-schema.org/draft/2020-12/schema",
+  "title":"FINN fact sheet v1 (contract; pipeline starts in Slice 3)",
+  "type":"object",
+  "additionalProperties":false,
+  "required":["schema_version","ticker","document","facts","guidance","warnings"],
+  "properties":{
+    "schema_version":{"const":1},
+    "ticker":{"type":"string"},
+    "document":{"type":"object","required":["id","sha256","url","kind","period","basis","unit"],"properties":{"id":{"type":"string"},"sha256":{"type":"string","pattern":"^[a-f0-9]{64}$"},"url":{"type":"string","format":"uri"},"kind":{"enum":["annual_report","transcript","results","filing"]},"period":{"type":"string"},"basis":{"enum":["consolidated","standalone","unknown"]},"unit":{"type":"string"}}},
+    "facts":{"type":"array","items":{"type":"object","required":["metric","value","period","unit","page","anchor","confidence"],"properties":{"metric":{"type":"string"},"value":{"type":["number","string","null"]},"period":{"type":"string"},"unit":{"type":"string"},"page":{"type":"integer","minimum":1},"anchor":{"type":"string"},"confidence":{"enum":["high","low"]}}}},
+    "guidance":{"type":"array","items":{"type":"object","required":["metric","horizon","due","basis","unit","page","anchor"],"properties":{"metric":{"type":"string"},"low":{"type":["number","null"]},"high":{"type":["number","null"]},"horizon":{"type":"string"},"due":{"type":"string","format":"date"},"basis":{"type":"string"},"unit":{"type":"string"},"page":{"type":"integer","minimum":1},"anchor":{"type":"string","description":"At most 20 words; enforce in code."}}}},
+    "warnings":{"type":"array","items":{"type":"string"}}
+  }
+}

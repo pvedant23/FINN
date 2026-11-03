@@ -1,0 +1,395 @@
+{
+  "coverage": [
+    {
+      "ticker": "HDFCBANK",
+      "bse": "500180",
+      "nse": "HDFCBANK",
+      "announcement_count": 23,
+      "results_found": true,
+      "pdf_downloaded": true,
+      "price_sessions": 60,
+      "price_mode": "live or raw cache (Yahoo chart)",
+      "source": "nse",
+      "errors": [
+        "BSE: Cached HTTP 403 (attempt budget exhausted)"
+      ]
+    },
+    {
+      "ticker": "ICICIBANK",
+      "bse": "532174",
+      "nse": "ICICIBANK",
+      "announcement_count": 31,
+      "results_found": true,
+      "pdf_downloaded": true,
+      "price_sessions": 60,
+      "price_mode": "live or raw cache (Yahoo chart)",
+      "source": "nse",
+      "errors": [
+        "BSE: Cached HTTP 403 (attempt budget exhausted)"
+      ]
+    },
+    {
+      "ticker": "BAJFINANCE",
+      "bse": "500034",
+      "nse": "BAJFINANCE",
+      "announcement_count": 26,
+      "results_found": true,
+      "pdf_downloaded": false,
+      "price_sessions": 60,
+      "price_mode": "live or raw cache (Yahoo chart)",
+      "source": "nse",
+      "errors": [
+        "BSE: Client error '403 Forbidden' for url 'https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?pageno=1&strCat=-1&strPrevDate=20260915&strScrip=500034&strSearch=P&strToDate=20261103&strType=C'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+      ]
+    },
+    {
+      "ticker": "INFY",
+      "bse": "500209",
+      "nse": "INFY",
+      "announcement_count": 22,
+      "results_found": true,
+      "pdf_downloaded": false,
+      "price_sessions": 60,
+      "price_mode": "live or raw cache (Yahoo chart)",
+      "source": "nse",
+      "errors": [
+        "BSE: Client error '403 Forbidden' for url 'https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?pageno=1&strCat=-1&strPrevDate=20260915&strScrip=500209&strSearch=P&strToDate=20261103&strType=C'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+      ]
+    },
+    {
+      "ticker": "TCS",
+      "bse": "532540",
+      "nse": "TCS",
+      "announcement_count": 26,
+      "results_found": true,
+      "pdf_downloaded": true,
+      "price_sessions": 60,
+      "price_mode": "live or raw cache (Yahoo chart)",
+      "source": "nse",
+      "errors": [
+        "BSE: Client error '403 Forbidden' for url 'https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?pageno=1&strCat=-1&strPrevDate=20260915&strScrip=532540&strSearch=P&strToDate=20261103&strType=C'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+      ]
+    },
+    {
+      "ticker": "SUNPHARMA",
+      "bse": "524715",
+      "nse": "SUNPHARMA",
+      "announcement_count": 28,
+      "results_found": true,
+      "pdf_downloaded": true,
+      "price_sessions": 60,
+      "price_mode": "live or raw cache (Yahoo chart)",
+      "source": "nse",
+      "errors": [
+        "BSE: Client error '403 Forbidden' for url 'https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?pageno=1&strCat=-1&strPrevDate=20260915&strScrip=524715&strSearch=P&strToDate=20261103&strType=C'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+      ]
+    },
+    {
+      "ticker": "MARUTI",
+      "bse": "532500",
+      "nse": "MARUTI",
+      "announcement_count": 27,
+      "results_found": true,
+      "pdf_downloaded": true,
+      "price_sessions": 60,
+      "price_mode": "live or raw cache (Yahoo chart)",
+      "source": "nse",
+      "errors": [
+        "BSE: Client error '403 Forbidden' for url 'https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?pageno=1&strCat=-1&strPrevDate=20260915&strScrip=532500&strSearch=P&strToDate=20261103&strType=C'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+      ]
+    },
+    {
+      "ticker": "HINDUNILVR",
+      "bse": "500696",
+      "nse": "HINDUNILVR",
+      "announcement_count": 14,
+      "results_found": false,
+      "pdf_downloaded": false,
+      "price_sessions": 60,
+      "price_mode": "live or raw cache (Yahoo chart)",
+      "source": "nse",
+      "errors": [
+        "BSE: Client error '403 Forbidden' for url 'https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?pageno=1&strCat=-1&strPrevDate=20260915&strScrip=500696&strSearch=P&strToDate=20261103&strType=C'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+      ]
+    },
+    {
+      "ticker": "LT",
+      "bse": "500510",
+      "nse": "LT",
+      "announcement_count": 23,
+      "results_found": true,
+      "pdf_downloaded": true,
+      "price_sessions": 60,
+      "price_mode": "live or raw cache (Yahoo chart)",
+      "source": "nse",
+      "errors": [
+        "BSE: Client error '403 Forbidden' for url 'https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?pageno=1&strCat=-1&strPrevDate=20260915&strScrip=500510&strSearch=P&strToDate=20261103&strType=C'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+      ]
+    },
+    {
+      "ticker": "NTPC",
+      "bse": "532555",
+      "nse": "NTPC",
+      "announcement_count": 27,
+      "results_found": true,
+      "pdf_downloaded": true,
+      "price_sessions": 60,
+      "price_mode": "live or raw cache (Yahoo chart)",
+      "source": "nse",
+      "errors": [
+        "BSE: Client error '403 Forbidden' for url 'https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?pageno=1&strCat=-1&strPrevDate=20260915&strScrip=532555&strSearch=P&strToDate=20261103&strType=C'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+      ]
+    },
+    {
+      "ticker": "RELIANCE",
+      "bse": "500325",
+      "nse": "RELIANCE",
+      "announcement_count": 30,
+      "results_found": true,
+      "pdf_downloaded": true,
+      "price_sessions": 60,
+      "price_mode": "live or raw cache (Yahoo chart)",
+      "source": "nse",
+      "errors": [
+        "BSE: Client error '403 Forbidden' for url 'https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?pageno=1&strCat=-1&strPrevDate=20260915&strScrip=500325&strSearch=P&strToDate=20261103&strType=C'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+      ]
+    },
+    {
+      "ticker": "COFORGE",
+      "bse": "532541",
+      "nse": "COFORGE",
+      "announcement_count": 37,
+      "results_found": true,
+      "pdf_downloaded": true,
+      "price_sessions": 60,
+      "price_mode": "live or raw cache (Yahoo chart)",
+      "source": "nse",
+      "errors": [
+        "BSE: Client error '403 Forbidden' for url 'https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?pageno=1&strCat=-1&strPrevDate=20260915&strScrip=532541&strSearch=P&strToDate=20261103&strType=C'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+      ]
+    },
+    {
+      "ticker": "APLAPOLLO",
+      "bse": "533758",
+      "nse": "APLAPOLLO",
+      "announcement_count": 13,
+      "results_found": true,
+      "pdf_downloaded": true,
+      "price_sessions": 60,
+      "price_mode": "live or raw cache (Yahoo chart)",
+      "source": "nse",
+      "errors": [
+        "BSE: Client error '403 Forbidden' for url 'https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?pageno=1&strCat=-1&strPrevDate=20260915&strScrip=533758&strSearch=P&strToDate=20261103&strType=C'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+      ]
+    },
+    {
+      "ticker": "CDSL",
+      "bse": null,
+      "nse": "CDSL",
+      "announcement_count": 14,
+      "results_found": true,
+      "pdf_downloaded": true,
+      "price_sessions": 60,
+      "price_mode": "live or raw cache (Yahoo chart)",
+      "source": "nse",
+      "errors": [
+        "BSE: No BSE code in Screener header"
+      ]
+    },
+    {
+      "ticker": "KPRMILL",
+      "bse": "532889",
+      "nse": "KPRMILL",
+      "announcement_count": 10,
+      "results_found": true,
+      "pdf_downloaded": true,
+      "price_sessions": 60,
+      "price_mode": "live or raw cache (Yahoo chart)",
+      "source": "nse",
+      "errors": [
+        "BSE: Client error '403 Forbidden' for url 'https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?pageno=1&strCat=-1&strPrevDate=20260915&strScrip=532889&strSearch=P&strToDate=20261103&strType=C'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+      ]
+    },
+    {
+      "ticker": "SHARDAMOTR",
+      "bse": "535602",
+      "nse": "SHARDAMOTR",
+      "announcement_count": 7,
+      "results_found": false,
+      "pdf_downloaded": false,
+      "price_sessions": 60,
+      "price_mode": "live or raw cache (Yahoo chart)",
+      "source": "nse",
+      "errors": [
+        "BSE: Client error '403 Forbidden' for url 'https://api.bseindia.com/BseIndiaAPI/api/AnnGetData/w?pageno=1&strCat=-1&strPrevDate=20260915&strScrip=535602&strSearch=P&strToDate=20261103&strType=C'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+      ]
+    }
+  ],
+  "results": [
+    {
+      "ticker": "HDFCBANK",
+      "subject": "HDFC Bank Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "pdf_url": "https://nsearchives.nseindia.com/corporate/HDFCBANK_17102026135520_OutcomeofBMResults_17oct2026.pdf",
+      "downloaded": true,
+      "error": null,
+      "document_role": "results_filing"
+    },
+    {
+      "ticker": "ICICIBANK",
+      "subject": "ICICI Bank Limited has submitted to the Exchange, the unaudited financial results of the Bank (standalone and consolidated) for the quarter and six months ended September 30, 2026.",
+      "pdf_url": "https://nsearchives.nseindia.com/corporate/ICICI2022_17102026152039_NSEBSE17102026.pdf",
+      "downloaded": true,
+      "error": null,
+      "document_role": "results_filing"
+    },
+    {
+      "ticker": "BAJFINANCE",
+      "subject": "Bajaj Finance Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "pdf_url": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_19102026172017_BMOutcome_19102026.pdf",
+      "downloaded": false,
+      "error": "[Errno 11001] getaddrinfo failed",
+      "document_role": "results_filing"
+    },
+    {
+      "ticker": "INFY",
+      "subject": "Infosys Limited has submitted to the Exchange, Financial Results for the quarter and half year ended September 30, 2026 and declaration of interim dividend",
+      "pdf_url": "https://nsearchives.nseindia.com/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf",
+      "downloaded": false,
+      "error": "Download exceeded 40 seconds or 30 MB; not retried",
+      "document_role": "results_filing"
+    },
+    {
+      "ticker": "TCS",
+      "subject": "Tata Consultancy Services Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "pdf_url": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_08102026153124_Post_BM_SE_Letter_fin.pdf",
+      "downloaded": true,
+      "error": null,
+      "document_role": "results_filing"
+    },
+    {
+      "ticker": "SUNPHARMA",
+      "subject": "Unaudited Financial Results for the quarter and half year ended 30 September 2026",
+      "pdf_url": "https://nsearchives.nseindia.com/corporate/SUNSEC_30102026141321_BMOutcomeFinancialoct26signed.pdf",
+      "downloaded": true,
+      "error": null,
+      "document_role": "results_filing"
+    },
+    {
+      "ticker": "MARUTI",
+      "subject": "Maruti Suzuki India Limited has informed the Exchange regarding a press release dated October 27, 2026, titled \"Maruti Suzuki India Limited Financial Results Q2 and H1 FY 2026-27\".",
+      "pdf_url": "https://nsearchives.nseindia.com/corporate/MARUTI_27102026153704_STxIntimation_PR_27Oct2026.pdf",
+      "downloaded": true,
+      "error": null,
+      "document_role": "results_release"
+    },
+    {
+      "ticker": "MARUTI",
+      "subject": "Maruti Suzuki India Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "pdf_url": "https://nsearchives.nseindia.com/corporate/MARUTI_27102026152412_QuickResults_27Oct2026_signed.pdf",
+      "downloaded": true,
+      "error": null,
+      "document_role": "results_filing"
+    },
+    {
+      "ticker": "LT",
+      "subject": "Larsen & Toubro Limited has submitted to the Exchange, the consolidated and standalone un-audited financial results of the Company for the quarter and half-year ended September 30, 2026.",
+      "pdf_url": "https://nsearchives.nseindia.com/corporate/PAM_27102026171156_LTSep2026.pdf",
+      "downloaded": true,
+      "error": null,
+      "document_role": "results_filing"
+    },
+    {
+      "ticker": "NTPC",
+      "subject": "NTPC Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "pdf_url": "https://nsearchives.nseindia.com/corporate/9425178051_31102026144738_QFRQ2FY27_Final.pdf",
+      "downloaded": true,
+      "error": null,
+      "document_role": "results_filing"
+    },
+    {
+      "ticker": "RELIANCE",
+      "subject": "In continuation of our letter of today's date on the Unaudited Financial Results (Consolidated and Standalone) for the quarter and half year ended September 30, 2026, we attach a copy of media release being issued by the Company.",
+      "pdf_url": "https://nsearchives.nseindia.com/corporate/kavinavora_30102026194315_SE_30102026_MR.pdf",
+      "downloaded": true,
+      "error": null,
+      "document_role": "results_release"
+    },
+    {
+      "ticker": "RELIANCE",
+      "subject": "In continuation of our letter dated October 27, 2026, we wish to inform you that the Board of Directors of the Company, at its meeting held today, has, inter alia:1. approved the unaudited Financial Results (Consolidated and Standalone) for the quarter and half year ended September 30, 2026; and2. passed an enabling resolution authorising the issuance of listed, secured / unsecured, redeemable non-convertible debentures up to Rs. 15,000 crore, in one or more tranches, on private placement basis.",
+      "pdf_url": "https://nsearchives.nseindia.com/corporate/kavinavora_30102026193935_SE_30102026_Results.pdf",
+      "downloaded": true,
+      "error": null,
+      "document_role": "results_filing"
+    },
+    {
+      "ticker": "RELIANCE",
+      "subject": "In continuation of our letter dated October 27, 2026, we wish to inform you that the Board of Directors of the Company, at its meeting held today, has, inter alia:1. approved the unaudited Financial Results (Consolidated and Standalone) for the quarter and half year ended September 30, 2026; and2. passed an enabling resolution authorising the issuance of listed, secured / unsecured, redeemable non-convertible debentures up to Rs. 15,000 crore, in one or more tranches, on private placement basis.",
+      "pdf_url": "https://nsearchives.nseindia.com/corporate/kavinavora_30102026193952_SE_30102026_Results.pdf",
+      "downloaded": true,
+      "error": null,
+      "document_role": "results_filing"
+    },
+    {
+      "ticker": "COFORGE",
+      "subject": "Coforge Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "pdf_url": "https://nsearchives.nseindia.com/corporate/COFORGE_23102026161820_BMOutcome23102026F.pdf",
+      "downloaded": true,
+      "error": null,
+      "document_role": "results_filing"
+    },
+    {
+      "ticker": "APLAPOLLO",
+      "subject": "APL Apollo Tubes Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "pdf_url": "https://nsearchives.nseindia.com/corporate/APLAPOLLO_26102026122107_Outcome_of_Board_Meeting_26102026.pdf",
+      "downloaded": true,
+      "error": null,
+      "document_role": "results_filing"
+    },
+    {
+      "ticker": "CDSL",
+      "subject": "CDSL has informed the Exchange regarding Media Release relating to financial results for the quarter and half year ended September 30, 2026.",
+      "pdf_url": "https://nsearchives.nseindia.com/corporate/CDSL_31102026142410_Press_release_Signed.pdf",
+      "downloaded": true,
+      "error": null,
+      "document_role": "results_release"
+    },
+    {
+      "ticker": "CDSL",
+      "subject": "CDSL has submitted to the Exchange, the financial results for the quarter and half year ended September 30, 2026.",
+      "pdf_url": "https://nsearchives.nseindia.com/corporate/CDSL_31102026141138_OutcomeBM31102026_Signed.pdf",
+      "downloaded": true,
+      "error": null,
+      "document_role": "results_filing"
+    },
+    {
+      "ticker": "KPRMILL",
+      "subject": "We wish to inform you that the Board of Directors of the Company at their Meeting held on 28th October, 2026 have approved the following Un-Audited Financial Results of the Company for the Quarter/Half-Year ended 30th September, 2026:1. Standalone                                       2. Consolidated In this connection, we are sending herewith the Certified True Copies of the aforesaid Results along with the Limited Review Reports issued by the Statutory Auditors of the Company.",
+      "pdf_url": "https://nsearchives.nseindia.com/corporate/KPRMILL_28102026114824_BMOUTCOME28102026.pdf",
+      "downloaded": true,
+      "error": null,
+      "document_role": "results_filing"
+    }
+  ],
+  "distribution": {
+    "management_change": 20,
+    "fund_raise": 34,
+    "routine_compliance": 29,
+    "earnings_call": 29,
+    "press_release": 80,
+    "postal_ballot": 5,
+    "unclassified": 63,
+    "investor_meetings": 50,
+    "results": 21,
+    "credit_rating": 7,
+    "agm_egm": 6,
+    "insider_trading": 1,
+    "capex": 2,
+    "dividend": 8,
+    "M&A": 3
+  },
+  "filing_downloads": {
+    "success": 13,
+    "attempted": 15
+  }
+}

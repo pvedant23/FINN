@@ -1,0 +1,11 @@
+import test from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';
+import {clusters,defaults,reaction,alerts,why,shift,resultsFor,busiestDay,formatDate,moveText,attachmentLabel} from './logic.js';
+const b=JSON.parse(fs.readFileSync('data/bundle.json'));
+test('browser calibration agrees with Python',()=>{for(const d of [1,7,30]){let rows=clusters(b,shift(b.as_of,1-d),b.as_of,defaults(b));let c={attention:0,look:0,routine:0};for(const r of rows)c[{'Needs attention':'attention','Worth a look':'look','Routine':'routine'}[r.tier]]++;assert.deepEqual(c,b.calibration[d]);}});
+test('replay prevents future reaction leakage',()=>{let item=b.announcements.find(a=>a.reaction.session);assert.equal(reaction(item,shift(item.reaction.session,-1)).price_pct,null);});
+test('all deterministic copy meets word limits',()=>{for(const a of b.announcements){assert.ok(a.headline.split(/\s+/).length<=12);assert.ok(why(a,b.as_of).split(/\s+/).length<=20);}});
+test('thresholds and overrides alter market alert evaluation',()=>{let high={price:10000,volume:10000,categories:[],overrides:{}};assert.equal(alerts(b,b.as_of,high).length,0);assert.ok(alerts(b,b.as_of,{...high,overrides:{INFY:{price:.01,volume:.01}}}).length>0);});
+test('results attach to their source event only',()=>{const r=b.results.TCS;assert.ok(r.available);assert.equal(resultsFor(b,{ticker:'TCS',pdf_url:'different'}),null);assert.equal(resultsFor(b,{ticker:'TCS',attachments:[{pdf_url:r.pdf_url}]}),r);});
+test('busiest replay day has maximal cluster coverage',()=>{const rules=defaults(b),day=busiestDay(b,rules),count=clusters(b,day,day,rules).length;assert.ok(b.sessions.includes(day));for(const d of b.sessions)assert.ok(count>=clusters(b,d,d,rules).length);});
+test('dates, rounding and attachment grammar',()=>{assert.equal(formatDate('2026-10-08'),'8 Oct');assert.equal(moveText(0),'0.0%');assert.equal(moveText(-.01),'0.0%');assert.equal(moveText(-2),'↓ 2.0%');assert.equal(attachmentLabel(1),'+1 attachment');assert.equal(attachmentLabel(2),'+2 attachments');});
+test('reaction copy starts with a capital without repeated category',()=>{const a={category:'results',weight:7,reaction:{session:'2026-10-08',price_pct:3.9,volume_ratio:3.5}};assert.equal(why(a,'2026-10-08'),'Stock +3.9% on 3.5x volume; 7% of portfolio.');});

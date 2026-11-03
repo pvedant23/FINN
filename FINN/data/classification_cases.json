@@ -1,0 +1,12 @@
+{
+  "synthetic": true,
+  "purpose": "Classifier test descriptions only. Never investor-facing announcements.",
+  "cases": [
+    {"text":"Audited financial results for the quarter","expected":"results"},
+    {"text":"Appointment of Chief Financial Officer","expected":"management_change"},
+    {"text":"Acquisition of subsidiary","expected":"M&A"},
+    {"text":"Notice of investor meeting","expected":"investor_meetings"},
+    {"text":"Credit rating reaffirmed","expected":"credit_rating"},
+    {"text":"Quarterly compliance certificate","expected":"unclassified"}
+  ]
+}

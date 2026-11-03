@@ -1,0 +1,789 @@
+[
+  {
+    "available": false,
+    "rows": {},
+    "badge": "Low confidence: Page 9: Quarter column headers ambiguous or incomplete",
+    "crosscheck": "not cross-checked",
+    "basis": "unknown",
+    "ticker": "HDFCBANK",
+    "pdf_url": "https://nsearchives.nseindia.com/corporate/HDFCBANK_17102026135520_OutcomeofBMResults_17oct2026.pdf",
+    "periods": [
+      "2026-09-30",
+      "2026-06-30",
+      "2025-09-30"
+    ],
+    "bank": true,
+    "document_sha256": "1a25f460842bbd8e3632a000cdbc625d7aa1ec2934d3b0d8b60d270bb33e3bdf"
+  },
+  {
+    "available": false,
+    "rows": {},
+    "badge": "Low confidence: Page 13: Quarter column headers ambiguous or incomplete",
+    "crosscheck": "not cross-checked",
+    "basis": "unknown",
+    "ticker": "ICICIBANK",
+    "pdf_url": "https://nsearchives.nseindia.com/corporate/ICICI2022_17102026152039_NSEBSE17102026.pdf",
+    "periods": [
+      "2026-09-30",
+      "2026-06-30",
+      "2025-09-30"
+    ],
+    "bank": true,
+    "document_sha256": "b28a719174d31592413f317e9baf527e4dd127f18b2468179d9cc0bfa74fabd1"
+  },
+  {
+    "available": false,
+    "rows": {},
+    "badge": "Low confidence: Page 14: interest_earned: missing or ambiguous row; Page 19: Quarter column headers ambiguous or incomplete; Page 20: Quarter column headers ambiguous or incomplete; Page 23: Quarter column headers ambiguous or incomplete",
+    "crosscheck": "not cross-checked",
+    "basis": "unknown",
+    "ticker": "BAJFINANCE",
+    "pdf_url": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_19102026172017_BMOutcome_19102026.pdf",
+    "periods": [
+      "2026-09-30",
+      "2026-06-30",
+      "2025-09-30"
+    ],
+    "bank": true,
+    "document_sha256": "fdd01f6b9d2a9b6468518471df7221303a71a93544175633b9737ee2acd6ff33"
+  },
+  {
+    "available": false,
+    "rows": {},
+    "badge": "Low confidence: Page 18: Unit not reliably identified; Page 162: Quarter column headers ambiguous or incomplete",
+    "crosscheck": "not cross-checked",
+    "basis": "unknown",
+    "ticker": "INFY",
+    "pdf_url": "https://nsearchives.nseindia.com/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf",
+    "periods": [
+      "2026-09-30",
+      "2026-06-30",
+      "2025-09-30"
+    ],
+    "bank": false,
+    "document_sha256": "65e459d2b8bc4ed1e754d15250e209f68db29d06e0b98593c7a023d29b6ef151"
+  },
+  {
+    "available": true,
+    "rows": {
+      "revenue": {
+        "values": [
+          73188.0,
+          72275.0,
+          65799.0
+        ],
+        "page": 8,
+        "qoq": 1.26,
+        "yoy": 11.23,
+        "margins": [
+          100.0,
+          100.0,
+          100.0
+        ]
+      },
+      "other_income": {
+        "values": [
+          1337.0,
+          1568.0,
+          867.0
+        ],
+        "page": 8,
+        "qoq": -14.73,
+        "yoy": 54.21,
+        "margins": [
+          1.83,
+          2.17,
+          1.32
+        ]
+      },
+      "finance_cost": {
+        "values": [
+          252.0,
+          273.0,
+          229.0
+        ],
+        "page": 8,
+        "qoq": -7.69,
+        "yoy": 10.04,
+        "margins": [
+          0.34,
+          0.38,
+          0.35
+        ]
+      },
+      "da": {
+        "values": [
+          1262.0,
+          1239.0,
+          1413.0
+        ],
+        "page": 8,
+        "qoq": 1.86,
+        "yoy": -10.69,
+        "margins": [
+          1.72,
+          1.71,
+          2.15
+        ]
+      },
+      "pbt": {
+        "values": [
+          18638.0,
+          17944.0,
+          16068.0
+        ],
+        "page": 8,
+        "qoq": 3.87,
+        "yoy": 15.99,
+        "margins": [
+          25.47,
+          24.83,
+          24.42
+        ]
+      },
+      "pat": {
+        "values": [
+          13934.0,
+          13420.0,
+          12131.0
+        ],
+        "page": 8,
+        "qoq": 3.83,
+        "yoy": 14.86,
+        "margins": [
+          19.04,
+          18.57,
+          18.44
+        ]
+      },
+      "total_income": {
+        "values": [
+          74525.0,
+          73843.0,
+          66666.0
+        ],
+        "page": 8,
+        "qoq": 0.92,
+        "yoy": 11.79,
+        "margins": [
+          101.83,
+          102.17,
+          101.32
+        ]
+      },
+      "expenses": {
+        "values": [
+          55887.0,
+          55231.0,
+          49463.0
+        ],
+        "page": 8,
+        "qoq": 1.19,
+        "yoy": 12.99,
+        "margins": [
+          76.36,
+          76.42,
+          75.17
+        ]
+      },
+      "tax": {
+        "values": [
+          4704.0,
+          4524.0,
+          3937.0
+        ],
+        "page": 8,
+        "qoq": 3.98,
+        "yoy": 19.48,
+        "margins": [
+          6.43,
+          6.26,
+          5.98
+        ]
+      },
+      "restructuring": {
+        "values": [
+          0.0,
+          0.0,
+          1135.0
+        ],
+        "page": 8,
+        "qoq": null,
+        "yoy": -100.0,
+        "margins": [
+          0.0,
+          0.0,
+          1.72
+        ]
+      },
+      "labour": {
+        "values": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "page": 8,
+        "qoq": null,
+        "yoy": null,
+        "margins": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "settlement": {
+        "values": [
+          0.0,
+          668.0,
+          0.0
+        ],
+        "page": 8,
+        "qoq": -100.0,
+        "yoy": null,
+        "margins": [
+          0.0,
+          0.92,
+          0.0
+        ]
+      },
+      "ebitda": {
+        "values": [
+          18815.0,
+          17888.0,
+          16843.0
+        ],
+        "page": 8,
+        "derived": true,
+        "qoq": 5.18,
+        "yoy": 11.71,
+        "margins": [
+          25.71,
+          24.75,
+          25.6
+        ]
+      }
+    },
+    "badge": "From filing, cross-checked",
+    "basis": "consolidated",
+    "crosscheck": "via Screener (company-reported)",
+    "ticker": "TCS",
+    "pdf_url": "https://nsearchives.nseindia.com/corporate/TCS_CORPCS_08102026153124_Post_BM_SE_Letter_fin.pdf",
+    "periods": [
+      "2026-09-30",
+      "2026-06-30",
+      "2025-09-30"
+    ],
+    "bank": false,
+    "document_sha256": "038ef1c48011691a344e0c051d68ec515097938e15300a2fd22d7ebbdcfc9419"
+  },
+  {
+    "available": false,
+    "rows": {},
+    "badge": "Low confidence: Page 12: sales_products: missing or ambiguous row",
+    "crosscheck": "not cross-checked",
+    "basis": "unknown",
+    "ticker": "SUNPHARMA",
+    "pdf_url": "https://nsearchives.nseindia.com/corporate/SUNSEC_30102026141321_BMOutcomeFinancialoct26signed.pdf",
+    "periods": [
+      "2026-09-30",
+      "2026-06-30",
+      "2025-09-30"
+    ],
+    "bank": false,
+    "document_sha256": "a61d4ac3bb8430419e443083de66f0e77bc9a714a8bfe141d067fdbbbec85c33"
+  },
+  {
+    "available": false,
+    "rows": {},
+    "badge": "Low confidence: Page 2: Unit not reliably identified",
+    "crosscheck": "not cross-checked",
+    "basis": "unknown",
+    "ticker": "MARUTI",
+    "pdf_url": "https://nsearchives.nseindia.com/corporate/MARUTI_27102026152412_QuickResults_27Oct2026_signed.pdf",
+    "periods": [
+      "2026-09-30",
+      "2026-06-30",
+      "2025-09-30"
+    ],
+    "bank": false,
+    "document_sha256": "4ca7fc3b943807d3a5419d0da65d189c1b2b7ab653fb85433b90dedc308ae278"
+  },
+  {
+    "available": false,
+    "rows": {},
+    "badge": "Low confidence: Page 11: da: missing or ambiguous row",
+    "crosscheck": "not cross-checked",
+    "basis": "unknown",
+    "ticker": "LT",
+    "pdf_url": "https://nsearchives.nseindia.com/corporate/PAM_27102026171156_LTSep2026.pdf",
+    "periods": [
+      "2026-09-30",
+      "2026-06-30",
+      "2025-09-30"
+    ],
+    "bank": false,
+    "document_sha256": "da335b2be356b8fb865b45c14aa8082b9f232cd218d1cbdea4954947771ebdb4"
+  },
+  {
+    "available": false,
+    "rows": {},
+    "badge": "Low confidence: Page 11: Unit not reliably identified",
+    "crosscheck": "not cross-checked",
+    "basis": "unknown",
+    "ticker": "NTPC",
+    "pdf_url": "https://nsearchives.nseindia.com/corporate/9425178051_31102026144738_QFRQ2FY27_Final.pdf",
+    "periods": [
+      "2026-09-30",
+      "2026-06-30",
+      "2025-09-30"
+    ],
+    "bank": false,
+    "document_sha256": "f9627994f4304c66ee8ce54fe6983ba56ce639692b1a4091ef84461b55359de4"
+  },
+  {
+    "available": false,
+    "rows": {},
+    "badge": "Low confidence: Page 10: Quarter column headers ambiguous or incomplete",
+    "crosscheck": "not cross-checked",
+    "basis": "unknown",
+    "ticker": "RELIANCE",
+    "pdf_url": "https://nsearchives.nseindia.com/corporate/kavinavora_30102026193935_SE_30102026_Results.pdf",
+    "periods": [
+      "2026-09-30",
+      "2026-06-30",
+      "2025-09-30"
+    ],
+    "bank": false,
+    "document_sha256": "7c1b0618fa7aeb2d2e951aa54ef31e88639aa44031ece74eced1e1fd96ee32db"
+  },
+  {
+    "available": false,
+    "rows": {},
+    "badge": "Low confidence: Page 10: Quarter column headers ambiguous or incomplete",
+    "crosscheck": "not cross-checked",
+    "basis": "unknown",
+    "ticker": "RELIANCE",
+    "pdf_url": "https://nsearchives.nseindia.com/corporate/kavinavora_30102026193952_SE_30102026_Results.pdf",
+    "periods": [
+      "2026-09-30",
+      "2026-06-30",
+      "2025-09-30"
+    ],
+    "bank": false,
+    "document_sha256": "7c1b0618fa7aeb2d2e951aa54ef31e88639aa44031ece74eced1e1fd96ee32db"
+  },
+  {
+    "available": false,
+    "rows": {},
+    "badge": "Low confidence: Readable consolidated table unavailable",
+    "crosscheck": "not cross-checked",
+    "basis": "unknown",
+    "ticker": "COFORGE",
+    "pdf_url": "https://nsearchives.nseindia.com/corporate/COFORGE_23102026161820_BMOutcome23102026F.pdf",
+    "periods": [
+      "2026-09-30",
+      "2026-06-30",
+      "2025-09-30"
+    ],
+    "bank": false,
+    "document_sha256": "ac08c1a1f973a1d1ee5fa47077be75b82c85a06f074bfa217e486c6711e887d3"
+  },
+  {
+    "available": false,
+    "rows": {},
+    "badge": "Low confidence: Page 9: sales_products: missing or ambiguous row",
+    "crosscheck": "not cross-checked",
+    "basis": "unknown",
+    "ticker": "APLAPOLLO",
+    "pdf_url": "https://nsearchives.nseindia.com/corporate/APLAPOLLO_26102026122107_Outcome_of_Board_Meeting_26102026.pdf",
+    "periods": [
+      "2026-09-30",
+      "2026-06-30",
+      "2025-09-30"
+    ],
+    "bank": false,
+    "document_sha256": "5a3cdff1f73c56d51e2eed5d2171526e32934a22dbc33008dd466de8dc1a8064"
+  },
+  {
+    "available": true,
+    "rows": {
+      "revenue": {
+        "values": [
+          394.48,
+          292.76,
+          318.88
+        ],
+        "page": 10,
+        "qoq": 34.75,
+        "yoy": 23.71,
+        "margins": [
+          100.0,
+          100.0,
+          100.0
+        ]
+      },
+      "other_income": {
+        "values": [
+          22.82,
+          47.74,
+          22.49
+        ],
+        "page": 10,
+        "qoq": -52.2,
+        "yoy": 1.47,
+        "margins": [
+          5.78,
+          16.31,
+          7.05
+        ]
+      },
+      "finance_cost": {
+        "values": [
+          0.03,
+          0.04,
+          0.05
+        ],
+        "page": 10,
+        "qoq": -25.0,
+        "yoy": -40.0,
+        "margins": [
+          0.01,
+          0.01,
+          0.02
+        ]
+      },
+      "da": {
+        "values": [
+          20.49,
+          19.18,
+          16.1
+        ],
+        "page": 10,
+        "qoq": 6.83,
+        "yoy": 27.27,
+        "margins": [
+          5.19,
+          6.55,
+          5.05
+        ]
+      },
+      "pbt": {
+        "values": [
+          230.39,
+          166.67,
+          182.65
+        ],
+        "page": 10,
+        "qoq": 38.23,
+        "yoy": 26.14,
+        "margins": [
+          58.4,
+          56.93,
+          57.28
+        ]
+      },
+      "pat": {
+        "values": [
+          173.3,
+          117.67,
+          139.93
+        ],
+        "page": 10,
+        "qoq": 47.28,
+        "yoy": 23.85,
+        "margins": [
+          43.93,
+          40.19,
+          43.88
+        ]
+      },
+      "total_income": {
+        "values": [
+          417.3,
+          340.5,
+          341.37
+        ],
+        "page": 10,
+        "qoq": 22.56,
+        "yoy": 22.24,
+        "margins": [
+          105.78,
+          116.31,
+          107.05
+        ]
+      },
+      "expenses": {
+        "values": [
+          186.52,
+          174.08,
+          157.41
+        ],
+        "page": 10,
+        "qoq": 7.15,
+        "yoy": 18.49,
+        "margins": [
+          47.28,
+          59.46,
+          49.36
+        ]
+      },
+      "tax": {
+        "values": [
+          57.09,
+          49.0,
+          42.72
+        ],
+        "page": 10,
+        "qoq": 16.51,
+        "yoy": 33.64,
+        "margins": [
+          14.47,
+          16.74,
+          13.4
+        ]
+      },
+      "associate": {
+        "values": [
+          -0.39,
+          0.25,
+          -1.31
+        ],
+        "page": 10,
+        "qoq": -256.0,
+        "yoy": null,
+        "margins": [
+          -0.1,
+          0.09,
+          -0.41
+        ]
+      },
+      "ebitda": {
+        "values": [
+          228.09,
+          138.15,
+          176.31
+        ],
+        "page": 10,
+        "derived": true,
+        "qoq": 65.1,
+        "yoy": 29.37,
+        "margins": [
+          57.82,
+          47.19,
+          55.29
+        ]
+      }
+    },
+    "badge": "From filing, cross-checked",
+    "basis": "consolidated",
+    "crosscheck": "via Screener (company-reported)",
+    "ticker": "CDSL",
+    "pdf_url": "https://nsearchives.nseindia.com/corporate/CDSL_31102026141138_OutcomeBM31102026_Signed.pdf",
+    "periods": [
+      "2026-09-30",
+      "2026-06-30",
+      "2025-09-30"
+    ],
+    "bank": false,
+    "document_sha256": "1a412beafadfceb6478ace53e80d79b0a12a70679196ece8c8af9fdc85b74d00"
+  },
+  {
+    "available": true,
+    "rows": {
+      "sales_products": {
+        "values": [
+          1871.17,
+          1854.29,
+          1568.86
+        ],
+        "page": 9,
+        "qoq": 0.91,
+        "yoy": 19.27,
+        "margins": [
+          96.46,
+          95.8,
+          96.13
+        ]
+      },
+      "other_operating_revenue": {
+        "values": [
+          68.57,
+          81.23,
+          63.17
+        ],
+        "page": 9,
+        "qoq": -15.59,
+        "yoy": 8.55,
+        "margins": [
+          3.54,
+          4.2,
+          3.87
+        ]
+      },
+      "revenue": {
+        "values": [
+          1939.74,
+          1935.52,
+          1632.03
+        ],
+        "page": 9,
+        "derived": true,
+        "qoq": 0.22,
+        "yoy": 18.85,
+        "margins": [
+          100.0,
+          100.0,
+          100.0
+        ]
+      },
+      "other_income": {
+        "values": [
+          49.13,
+          34.74,
+          23.93
+        ],
+        "page": 9,
+        "qoq": 41.42,
+        "yoy": 105.31,
+        "margins": [
+          2.53,
+          1.79,
+          1.47
+        ]
+      },
+      "finance_cost": {
+        "values": [
+          11.77,
+          14.53,
+          12.24
+        ],
+        "page": 9,
+        "qoq": -19.0,
+        "yoy": -3.84,
+        "margins": [
+          0.61,
+          0.75,
+          0.75
+        ]
+      },
+      "da": {
+        "values": [
+          55.65,
+          56.49,
+          53.82
+        ],
+        "page": 9,
+        "qoq": -1.49,
+        "yoy": 3.4,
+        "margins": [
+          2.87,
+          2.92,
+          3.3
+        ]
+      },
+      "pbt": {
+        "values": [
+          479.39,
+          338.56,
+          272.1
+        ],
+        "page": 9,
+        "qoq": 41.6,
+        "yoy": 76.18,
+        "margins": [
+          24.71,
+          17.49,
+          16.67
+        ]
+      },
+      "pat": {
+        "values": [
+          345.0,
+          258.54,
+          218.03
+        ],
+        "page": 9,
+        "qoq": 33.44,
+        "yoy": 58.24,
+        "margins": [
+          17.79,
+          13.36,
+          13.36
+        ]
+      },
+      "total_income": {
+        "values": [
+          1988.87,
+          1970.26,
+          1655.96
+        ],
+        "page": 9,
+        "qoq": 0.94,
+        "yoy": 20.1,
+        "margins": [
+          102.53,
+          101.79,
+          101.47
+        ]
+      },
+      "expenses": {
+        "values": [
+          1509.48,
+          1631.7,
+          1383.86
+        ],
+        "page": 9,
+        "qoq": -7.49,
+        "yoy": 9.08,
+        "margins": [
+          77.82,
+          84.3,
+          84.79
+        ]
+      },
+      "tax": {
+        "values": [
+          134.39,
+          80.02,
+          54.07
+        ],
+        "page": 9,
+        "qoq": 67.95,
+        "yoy": 148.55,
+        "margins": [
+          6.93,
+          4.13,
+          3.31
+        ]
+      },
+      "ebitda": {
+        "values": [
+          497.68,
+          374.84,
+          314.23
+        ],
+        "page": 9,
+        "derived": true,
+        "qoq": 32.77,
+        "yoy": 58.38,
+        "margins": [
+          25.66,
+          19.37,
+          19.25
+        ]
+      }
+    },
+    "badge": "From filing, cross-checked",
+    "basis": "consolidated",
+    "crosscheck": "via Screener (company-reported)",
+    "ticker": "KPRMILL",
+    "pdf_url": "https://nsearchives.nseindia.com/corporate/KPRMILL_28102026114824_BMOUTCOME28102026.pdf",
+    "periods": [
+      "2026-09-30",
+      "2026-06-30",
+      "2025-09-30"
+    ],
+    "bank": false,
+    "document_sha256": "41bc381f52d68f48aef75744d9fc45ec4fe47ddcc1f8a3ef64609c7aa78e7d73"
+  }
+]
